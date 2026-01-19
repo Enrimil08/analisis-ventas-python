@@ -1,0 +1,9 @@
+Fecha,Producto,Cantidad,PrecioUnitario,Region
+2023-01-05,Laptop,2,1200,Norte
+2023-01-05,Mouse,5,25,Sur
+2023-01-06,Teclado,3,75,Norte
+2023-01-06,Monitor,1,300,Este
+2023-01-07,Laptop,1,1200,Oeste
+2023-01-07,Mouse,10,25,Norte
+2023-01-08,Teclado,2,75,Este
+2023-01-08,Monitor,2,300,Sur
