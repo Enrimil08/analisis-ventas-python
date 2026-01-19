@@ -19,3 +19,6 @@ Este proyecto es una herramienta de automatización diseñada para procesar dato
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/TU_USUARIO/analisis-ventas-python.git](https://github.com/TU_USUARIO/analisis-ventas-python.git)<img width="1000" height="600" alt="ingresos_por_region" src="https://github.com/user-attachments/assets/959c82fc-bba8-4906-a8cb-06fbf778fd03" />
+
+   
+Desarrollado por [Enrique Miller] Full Stack Developer Junior | Especialista en Python & Flask
